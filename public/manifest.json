@@ -1,0 +1,60 @@
+{
+  "name": "ᗺIPS Operations Control",
+  "short_name": "ᗺIPS Ops",
+  "description": "ᗺIPS tri-site operations control panel — real-time dashboard for LexiRose, BIPS Montreal, and BIPS Gear",
+  "start_url": "/ops",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["productivity", "business", "utilities"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Overview",
+      "short_name": "Overview",
+      "url": "/ops",
+      "description": "Platform overview and live stats",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Alerts",
+      "short_name": "Alerts",
+      "url": "/ops#alerts",
+      "description": "Create and manage operational alerts",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Workboard",
+      "short_name": "Work",
+      "url": "/ops#workboard",
+      "description": "LEACH workboard and task tracking",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Hub",
+      "short_name": "Hub",
+      "url": "/hub",
+      "description": "Platform navigation hub",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}

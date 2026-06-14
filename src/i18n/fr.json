@@ -1,0 +1,270 @@
+{
+  "common": {
+    "back": "Retour",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "close": "Fermer",
+    "search": "Rechercher",
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "noData": "Aucune donnée disponible",
+    "viewAll": "Voir Tout",
+    "signIn": "Se connecter",
+    "signOut": "Se déconnecter",
+    "admin": "Administrateur",
+    "public": "Public",
+    "private": "Privé",
+    "submit": "Soumettre",
+    "confirm": "Confirmer",
+    "filter": "Filtrer",
+    "share": "Partager",
+    "invite": "Inviter",
+    "settings": "Paramètres",
+    "language": "Langue"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "Français",
+    "es": "Español",
+    "zh": "中文"
+  },
+  "home": {
+    "title": "Intelligence Civique de Montréal",
+    "subtitle": "Données urbaines en temps réel pour une ville plus intelligente",
+    "hero": "Explorez Montréal à travers des données civiques en direct, des histoires communautaires et des superpositions intelligentes.",
+    "featuredOverlays": "Superpositions en vedette",
+    "communityPins": "Épingles communautaires",
+    "recentStories": "Histoires récentes",
+    "citySnapshot": "Aperçu de la ville",
+    "viewCommandCenter": "Centre de commande",
+    "viewNeighborhoods": "Explorer les quartiers",
+    "viewTrails": "Sentiers urbains"
+  },
+  "commandCenter": {
+    "title": "Centre de Commande de la Ville",
+    "subtitle": "Plateforme d'Intelligence Civique de Montréal",
+    "search": "Rechercher lieux, couches, histoires...",
+    "layers": "Couches",
+    "details": "Détails",
+    "mood": "Humeur",
+    "gear": "Équipement",
+    "stories": "Histoires",
+    "clickMarker": "Cliquez sur un marqueur pour voir les détails",
+    "longPress": "Appui long pour créer une épingle",
+    "createPin": "Créer une épingle",
+    "pinTitle": "Titre de l'épingle",
+    "pinDescription": "Description",
+    "pinCategory": "Catégorie",
+    "addPin": "Ajouter l'épingle"
+  },
+  "overlays": {
+    "traffic": "Circulation",
+    "transit": "Transport en commun",
+    "bike_paths": "Pistes cyclables",
+    "noise": "Bruit",
+    "air_quality": "Qualité de l'air",
+    "shelters": "Refuges",
+    "public_art": "Art public",
+    "events": "Événements",
+    "street_closures": "Fermetures de rues",
+    "snow": "Déneigement",
+    "wifi": "Points Wi-Fi",
+    "parks": "Parcs",
+    "construction": "Construction",
+    "safety": "Zones de sécurité"
+  },
+  "neighborhoods": {
+    "title": "Tableaux de Bord des Quartiers",
+    "subtitle": "Intelligence civique au niveau des arrondissements",
+    "selectBorough": "Sélectionner un arrondissement",
+    "heatIndex": "Indice de chaleur",
+    "transitStatus": "Transport",
+    "noiseLevel": "Bruit",
+    "airQuality": "Qualité de l'air",
+    "activeEvents": "Événements",
+    "shelterCapacity": "Refuges",
+    "viewInCommandCenter": "Voir dans le Centre de commande",
+    "stories": "Histoires",
+    "noData": "Aucune donnée disponible pour {{borough}}"
+  },
+  "boroughs": {
+    "Le Plateau-Mont-Royal": "Le Plateau-Mont-Royal",
+    "Rosemont-La Petite-Patrie": "Rosemont–La Petite-Patrie",
+    "Ville-Marie": "Ville-Marie",
+    "Verdun": "Verdun",
+    "Mercier-Hochelaga-Maisonneuve": "Mercier–Hochelaga-Maisonneuve",
+    "Le Sud-Ouest": "Le Sud-Ouest",
+    "Outremont": "Outremont",
+    "Cote-des-Neiges-NDG": "Côte-des-Neiges–Notre-Dame-de-Grâce"
+  },
+  "collabMaps": {
+    "title": "Cartes Collaboratives",
+    "subtitle": "Cartes civiques partagées en temps réel",
+    "newMap": "Nouvelle carte",
+    "createMap": "Créer une carte collaborative",
+    "mapTitle": "Titre",
+    "mapDescription": "Description",
+    "noMaps": "Aucune carte collaborative",
+    "createFirst": "Créez votre première carte",
+    "members": "Membres",
+    "overlays": "Couches",
+    "pins": "Épingles",
+    "activity": "Activité",
+    "clickToPin": "Cliquez sur la carte pour ajouter une épingle",
+    "noPins": "Aucune épingle",
+    "noActivity": "Aucune activité récente",
+    "roles": {
+      "view": "Voir",
+      "pin": "Épingler",
+      "edit": "Modifier",
+      "manage": "Gérer"
+    },
+    "activityTypes": {
+      "pinAdded": "a ajouté une épingle",
+      "pinEdited": "a modifié une épingle",
+      "trailUpdated": "a mis à jour un sentier",
+      "memberJoined": "a rejoint la carte",
+      "mapEdited": "a modifié la carte"
+    }
+  },
+  "mood": {
+    "title": "Anneaux d'Humeur des Arrondissements",
+    "energized": "Énergisé",
+    "stable": "Stable",
+    "stressed": "Stressé",
+    "overloaded": "Surchargé",
+    "factors": {
+      "noise": "Bruit",
+      "traffic": "Circulation",
+      "airQuality": "Qualité de l'air",
+      "events": "Événements",
+      "weather": "Météo",
+      "transit": "Transport"
+    },
+    "cityHeatIndex": "Indice de Chaleur Urbain",
+    "boroughMoodRings": "Anneaux d'Humeur"
+  },
+  "gear": {
+    "title": "Intelligence Équipement",
+    "connected": "Équipement connecté",
+    "noGear": "Aucun équipement détecté",
+    "connect": "Connecter",
+    "active": "Actif",
+    "connectPrompt": "Connectez votre BIPS Gear pour activer les superpositions intelligentes",
+    "activeMode": "Mode actif",
+    "modes": {
+      "commuter": "Navetteur",
+      "cyclist": "Cycliste",
+      "safety": "Sécurité"
+    },
+    "overlays": "Couches Équipement",
+    "recommendations": "Recommandations",
+    "nearbyPoints": "Points proches",
+    "recs": {
+      "transitDelay": "Retards de transport détectés",
+      "transitDelayDesc": "Ligne orange 5min de retard -- ajustez le départ +10min",
+      "snowRemoval": "Déneigement en cours",
+      "snowRemovalDesc": "Secteur Plateau -- itinéraires alternatifs suggérés",
+      "congestion": "Congestion à venir",
+      "congestionDesc": "A-40 lente -- considérez le détour par Sherbrooke",
+      "airQuality": "Avis sur la qualité de l'air",
+      "airQualityDesc": "PM2.5 modéré -- masque recommandé à Ville-Marie",
+      "bikePathClear": "Piste cyclable dégagée",
+      "bikePathClearDesc": "Corridor De Maisonneuve entièrement ouvert",
+      "eBikeCharge": "Charge e-vélo faible",
+      "eBikeChargeDesc": "Station de recharge à 400m à Berri-UQAM",
+      "shelter": "Refuge le plus proche disponible",
+      "shelterDesc": "Mission Old Brewery -- 65 lits disponibles",
+      "wifiNearby": "Wi-Fi gratuit à proximité",
+      "wifiNearbyDesc": "Grande Bibliothèque -- 200m à l'est",
+      "warmingCenter": "Centre de réchauffement ouvert",
+      "warmingCenterDesc": "Centre Ville-Marie -- accès 24/7"
+    }
+  },
+  "trails": {
+    "title": "Sentiers Urbains",
+    "subtitle": "Itinéraires de marche et de vélo sélectionnés",
+    "explore": "Explorer les sentiers",
+    "difficulty": "Difficulté",
+    "duration": "Durée",
+    "distance": "Distance",
+    "start": "Commencer le sentier",
+    "easy": "Facile",
+    "moderate": "Modéré",
+    "challenging": "Difficile"
+  },
+  "alerts": {
+    "title": "Alertes Urbaines",
+    "subtitle": "Notifications en temps réel pour votre ville",
+    "types": {
+      "transit": "Transport",
+      "weather": "Météo",
+      "safety": "Sécurité",
+      "event": "Événement",
+      "construction": "Construction",
+      "noise": "Bruit"
+    },
+    "severity": {
+      "low": "Faible",
+      "medium": "Moyen",
+      "high": "Élevé",
+      "critical": "Critique"
+    },
+    "delivery": {
+      "push": "Notification push",
+      "email": "Courriel",
+      "sms": "SMS",
+      "inApp": "Dans l'application"
+    },
+    "settings": "Paramètres d'alertes",
+    "noAlerts": "Aucune alerte active"
+  },
+  "stories": {
+    "title": "Histoires Civiques",
+    "subtitle": "Récits communautaires de tout Montréal",
+    "readMore": "Lire la suite",
+    "byAuthor": "Par {{author}}",
+    "categories": {
+      "culture": "Culture",
+      "transit": "Transport",
+      "environment": "Environnement",
+      "community": "Communauté",
+      "safety": "Sécurité",
+      "history": "Histoire"
+    }
+  },
+  "admin": {
+    "title": "Panneau d'administration",
+    "translations": "Traductions",
+    "translationConsole": "Console de Traduction",
+    "allKeys": "Toutes les clés",
+    "missingTranslations": "Traductions manquantes",
+    "searchKeys": "Rechercher les clés de traduction...",
+    "key": "Clé",
+    "saveChanges": "Enregistrer",
+    "saved": "Enregistré",
+    "adminMode": "MODE ADMIN -- Les modifications affectent toute la plateforme civique."
+  },
+  "transit": {
+    "normal": "Normal",
+    "minor_delays": "Retards mineurs",
+    "disruptions": "Perturbations"
+  },
+  "shelter": {
+    "available": "Disponible",
+    "limited": "Limité",
+    "full": "Complet"
+  },
+  "auth": {
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "email": "Courriel",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié?",
+    "noAccount": "Pas de compte?",
+    "hasAccount": "Déjà un compte?"
+  }
+}

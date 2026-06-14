@@ -1,0 +1,270 @@
+{
+  "common": {
+    "back": "Volver",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "close": "Cerrar",
+    "search": "Buscar",
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "noData": "Sin datos disponibles",
+    "viewAll": "Ver Todo",
+    "signIn": "Iniciar sesión",
+    "signOut": "Cerrar sesión",
+    "admin": "Administrador",
+    "public": "Público",
+    "private": "Privado",
+    "submit": "Enviar",
+    "confirm": "Confirmar",
+    "filter": "Filtrar",
+    "share": "Compartir",
+    "invite": "Invitar",
+    "settings": "Configuración",
+    "language": "Idioma"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "Français",
+    "es": "Español",
+    "zh": "中文"
+  },
+  "home": {
+    "title": "Inteligencia Cívica de Montreal",
+    "subtitle": "Datos urbanos en tiempo real para una ciudad más inteligente",
+    "hero": "Explora Montreal a través de datos cívicos en vivo, historias comunitarias y capas inteligentes.",
+    "featuredOverlays": "Capas destacadas",
+    "communityPins": "Marcadores comunitarios",
+    "recentStories": "Historias recientes",
+    "citySnapshot": "Vista de la ciudad",
+    "viewCommandCenter": "Centro de Comando",
+    "viewNeighborhoods": "Explorar Barrios",
+    "viewTrails": "Senderos Urbanos"
+  },
+  "commandCenter": {
+    "title": "Centro de Comando de la Ciudad",
+    "subtitle": "Plataforma de Inteligencia Cívica de Montreal",
+    "search": "Buscar lugares, capas, historias...",
+    "layers": "Capas",
+    "details": "Detalles",
+    "mood": "Estado",
+    "gear": "Equipo",
+    "stories": "Historias",
+    "clickMarker": "Haz clic en un marcador para ver detalles",
+    "longPress": "Mantén pulsado para crear un marcador",
+    "createPin": "Crear marcador",
+    "pinTitle": "Título del marcador",
+    "pinDescription": "Descripción",
+    "pinCategory": "Categoría",
+    "addPin": "Añadir marcador"
+  },
+  "overlays": {
+    "traffic": "Tráfico",
+    "transit": "Transporte público",
+    "bike_paths": "Ciclovías",
+    "noise": "Ruido",
+    "air_quality": "Calidad del aire",
+    "shelters": "Refugios",
+    "public_art": "Arte público",
+    "events": "Eventos",
+    "street_closures": "Cierres de calles",
+    "snow": "Remoción de nieve",
+    "wifi": "Puntos Wi-Fi",
+    "parks": "Parques",
+    "construction": "Construcción",
+    "safety": "Zonas de seguridad"
+  },
+  "neighborhoods": {
+    "title": "Paneles de Barrios",
+    "subtitle": "Inteligencia cívica a nivel de distrito",
+    "selectBorough": "Seleccionar distrito",
+    "heatIndex": "Índice de calor",
+    "transitStatus": "Transporte",
+    "noiseLevel": "Ruido",
+    "airQuality": "Calidad del aire",
+    "activeEvents": "Eventos",
+    "shelterCapacity": "Refugios",
+    "viewInCommandCenter": "Ver en el Centro de Comando",
+    "stories": "Historias",
+    "noData": "Sin datos disponibles para {{borough}}"
+  },
+  "boroughs": {
+    "Le Plateau-Mont-Royal": "Le Plateau-Mont-Royal",
+    "Rosemont-La Petite-Patrie": "Rosemont–La Petite-Patrie",
+    "Ville-Marie": "Ville-Marie",
+    "Verdun": "Verdun",
+    "Mercier-Hochelaga-Maisonneuve": "Mercier–Hochelaga-Maisonneuve",
+    "Le Sud-Ouest": "Le Sud-Ouest",
+    "Outremont": "Outremont",
+    "Cote-des-Neiges-NDG": "Côte-des-Neiges–NDG"
+  },
+  "collabMaps": {
+    "title": "Mapas Colaborativos",
+    "subtitle": "Mapas cívicos compartidos en tiempo real",
+    "newMap": "Nuevo mapa",
+    "createMap": "Crear mapa colaborativo",
+    "mapTitle": "Título",
+    "mapDescription": "Descripción",
+    "noMaps": "Sin mapas colaborativos",
+    "createFirst": "Crea tu primer mapa",
+    "members": "Miembros",
+    "overlays": "Capas",
+    "pins": "Marcadores",
+    "activity": "Actividad",
+    "clickToPin": "Haz clic en el mapa para añadir un marcador",
+    "noPins": "Sin marcadores",
+    "noActivity": "Sin actividad reciente",
+    "roles": {
+      "view": "Ver",
+      "pin": "Marcar",
+      "edit": "Editar",
+      "manage": "Gestionar"
+    },
+    "activityTypes": {
+      "pinAdded": "añadió un marcador",
+      "pinEdited": "editó un marcador",
+      "trailUpdated": "actualizó un sendero",
+      "memberJoined": "se unió al mapa",
+      "mapEdited": "editó el mapa"
+    }
+  },
+  "mood": {
+    "title": "Anillos de Estado de los Distritos",
+    "energized": "Energizado",
+    "stable": "Estable",
+    "stressed": "Estresado",
+    "overloaded": "Sobrecargado",
+    "factors": {
+      "noise": "Ruido",
+      "traffic": "Tráfico",
+      "airQuality": "Calidad del aire",
+      "events": "Eventos",
+      "weather": "Clima",
+      "transit": "Transporte"
+    },
+    "cityHeatIndex": "Índice de Calor Urbano",
+    "boroughMoodRings": "Anillos de Estado"
+  },
+  "gear": {
+    "title": "Inteligencia de Equipo",
+    "connected": "Equipo conectado",
+    "noGear": "Sin equipo detectado",
+    "connect": "Conectar",
+    "active": "Activo",
+    "connectPrompt": "Conecta tu BIPS Gear para habilitar capas inteligentes",
+    "activeMode": "Modo activo",
+    "modes": {
+      "commuter": "Viajero",
+      "cyclist": "Ciclista",
+      "safety": "Seguridad"
+    },
+    "overlays": "Capas de Equipo",
+    "recommendations": "Recomendaciones",
+    "nearbyPoints": "Puntos cercanos",
+    "recs": {
+      "transitDelay": "Retrasos de transporte detectados",
+      "transitDelayDesc": "Línea naranja 5min de retraso -- ajusta la salida +10min",
+      "snowRemoval": "Remoción de nieve activa",
+      "snowRemovalDesc": "Sector Plateau -- rutas alternativas sugeridas",
+      "congestion": "Congestión adelante",
+      "congestionDesc": "A-40 lenta -- considera el desvío por Sherbrooke",
+      "airQuality": "Aviso de calidad del aire",
+      "airQualityDesc": "PM2.5 moderado -- mascarilla recomendada en Ville-Marie",
+      "bikePathClear": "Ciclovía despejada",
+      "bikePathClearDesc": "Corredor De Maisonneuve completamente abierto",
+      "eBikeCharge": "Carga de e-bici baja",
+      "eBikeChargeDesc": "Estación de carga a 400m en Berri-UQAM",
+      "shelter": "Refugio más cercano disponible",
+      "shelterDesc": "Mission Old Brewery -- 65 camas disponibles",
+      "wifiNearby": "Wi-Fi gratis cerca",
+      "wifiNearbyDesc": "Grande Bibliothèque -- 200m al este",
+      "warmingCenter": "Centro de calentamiento abierto",
+      "warmingCenterDesc": "Centro Ville-Marie -- acceso 24/7"
+    }
+  },
+  "trails": {
+    "title": "Senderos Urbanos",
+    "subtitle": "Rutas seleccionadas para caminar y andar en bicicleta",
+    "explore": "Explorar senderos",
+    "difficulty": "Dificultad",
+    "duration": "Duración",
+    "distance": "Distancia",
+    "start": "Iniciar sendero",
+    "easy": "Fácil",
+    "moderate": "Moderado",
+    "challenging": "Desafiante"
+  },
+  "alerts": {
+    "title": "Alertas Urbanas",
+    "subtitle": "Notificaciones en tiempo real para tu ciudad",
+    "types": {
+      "transit": "Transporte",
+      "weather": "Clima",
+      "safety": "Seguridad",
+      "event": "Evento",
+      "construction": "Construcción",
+      "noise": "Ruido"
+    },
+    "severity": {
+      "low": "Bajo",
+      "medium": "Medio",
+      "high": "Alto",
+      "critical": "Crítico"
+    },
+    "delivery": {
+      "push": "Notificación push",
+      "email": "Correo electrónico",
+      "sms": "SMS",
+      "inApp": "En la app"
+    },
+    "settings": "Configuración de alertas",
+    "noAlerts": "Sin alertas activas"
+  },
+  "stories": {
+    "title": "Historias Cívicas",
+    "subtitle": "Narrativas comunitarias de todo Montreal",
+    "readMore": "Leer más",
+    "byAuthor": "Por {{author}}",
+    "categories": {
+      "culture": "Cultura",
+      "transit": "Transporte",
+      "environment": "Medio Ambiente",
+      "community": "Comunidad",
+      "safety": "Seguridad",
+      "history": "Historia"
+    }
+  },
+  "admin": {
+    "title": "Panel de Administración",
+    "translations": "Traducciones",
+    "translationConsole": "Consola de Traducción",
+    "allKeys": "Todas las claves",
+    "missingTranslations": "Traducciones faltantes",
+    "searchKeys": "Buscar claves de traducción...",
+    "key": "Clave",
+    "saveChanges": "Guardar cambios",
+    "saved": "Guardado",
+    "adminMode": "MODO ADMIN -- Los cambios afectan toda la plataforma cívica."
+  },
+  "transit": {
+    "normal": "Normal",
+    "minor_delays": "Retrasos menores",
+    "disruptions": "Interrupciones"
+  },
+  "shelter": {
+    "available": "Disponible",
+    "limited": "Limitado",
+    "full": "Completo"
+  },
+  "auth": {
+    "signIn": "Iniciar sesión",
+    "signUp": "Registrarse",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "noAccount": "¿No tienes cuenta?",
+    "hasAccount": "¿Ya tienes cuenta?"
+  }
+}

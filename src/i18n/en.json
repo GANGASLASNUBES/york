@@ -1,0 +1,270 @@
+{
+  "common": {
+    "back": "Back",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "close": "Close",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "noData": "No data available",
+    "viewAll": "View All",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "admin": "Admin",
+    "public": "Public",
+    "private": "Private",
+    "submit": "Submit",
+    "confirm": "Confirm",
+    "filter": "Filter",
+    "share": "Share",
+    "invite": "Invite",
+    "settings": "Settings",
+    "language": "Language"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "Français",
+    "es": "Español",
+    "zh": "中文"
+  },
+  "home": {
+    "title": "Montreal Civic Intelligence",
+    "subtitle": "Real-time urban data for a smarter city",
+    "hero": "Explore Montreal through live civic data, community stories, and intelligent overlays.",
+    "featuredOverlays": "Featured Overlays",
+    "communityPins": "Community Pins",
+    "recentStories": "Recent Stories",
+    "citySnapshot": "City Snapshot",
+    "viewCommandCenter": "View Command Center",
+    "viewNeighborhoods": "Explore Neighborhoods",
+    "viewTrails": "City Trails"
+  },
+  "commandCenter": {
+    "title": "City Command Center",
+    "subtitle": "Montreal Civic Intelligence Platform",
+    "search": "Search locations, overlays, stories...",
+    "layers": "Layers",
+    "details": "Details",
+    "mood": "Mood",
+    "gear": "Gear",
+    "stories": "Stories",
+    "clickMarker": "Click a marker to see details",
+    "longPress": "Long-press to create a pin",
+    "createPin": "Create Pin",
+    "pinTitle": "Pin Title",
+    "pinDescription": "Description",
+    "pinCategory": "Category",
+    "addPin": "Add Pin"
+  },
+  "overlays": {
+    "traffic": "Traffic",
+    "transit": "Transit",
+    "bike_paths": "Bike Paths",
+    "noise": "Noise",
+    "air_quality": "Air Quality",
+    "shelters": "Shelters",
+    "public_art": "Public Art",
+    "events": "Events",
+    "street_closures": "Street Closures",
+    "snow": "Snow Removal",
+    "wifi": "Wi-Fi Hotspots",
+    "parks": "Parks",
+    "construction": "Construction",
+    "safety": "Safety Zones"
+  },
+  "neighborhoods": {
+    "title": "Neighborhood Dashboards",
+    "subtitle": "Borough-level civic intelligence",
+    "selectBorough": "Select Borough",
+    "heatIndex": "Heat Index",
+    "transitStatus": "Transit",
+    "noiseLevel": "Noise",
+    "airQuality": "Air Quality",
+    "activeEvents": "Events",
+    "shelterCapacity": "Shelter",
+    "viewInCommandCenter": "View in Command Center",
+    "stories": "Stories",
+    "noData": "No neighborhood data available for {{borough}}"
+  },
+  "boroughs": {
+    "Le Plateau-Mont-Royal": "Le Plateau-Mont-Royal",
+    "Rosemont-La Petite-Patrie": "Rosemont-La Petite-Patrie",
+    "Ville-Marie": "Ville-Marie",
+    "Verdun": "Verdun",
+    "Mercier-Hochelaga-Maisonneuve": "Mercier-Hochelaga-Maisonneuve",
+    "Le Sud-Ouest": "Le Sud-Ouest",
+    "Outremont": "Outremont",
+    "Cote-des-Neiges-NDG": "Côte-des-Neiges-NDG"
+  },
+  "collabMaps": {
+    "title": "Collaborative Maps",
+    "subtitle": "Real-time shared civic maps",
+    "newMap": "New Map",
+    "createMap": "Create Collaborative Map",
+    "mapTitle": "Title",
+    "mapDescription": "Description",
+    "noMaps": "No collaborative maps yet",
+    "createFirst": "Create your first map",
+    "members": "Members",
+    "overlays": "Overlays",
+    "pins": "Pins",
+    "activity": "Activity",
+    "clickToPin": "Click map to add a pin",
+    "noPins": "No pins yet",
+    "noActivity": "No recent activity",
+    "roles": {
+      "view": "View",
+      "pin": "Pin",
+      "edit": "Edit",
+      "manage": "Manage"
+    },
+    "activityTypes": {
+      "pinAdded": "added a pin",
+      "pinEdited": "edited a pin",
+      "trailUpdated": "updated a trail",
+      "memberJoined": "joined the map",
+      "mapEdited": "edited the map"
+    }
+  },
+  "mood": {
+    "title": "Borough Mood Rings",
+    "energized": "Energized",
+    "stable": "Stable",
+    "stressed": "Stressed",
+    "overloaded": "Overloaded",
+    "factors": {
+      "noise": "Noise",
+      "traffic": "Traffic",
+      "airQuality": "Air Quality",
+      "events": "Events",
+      "weather": "Weather",
+      "transit": "Transit"
+    },
+    "cityHeatIndex": "City Heat Index",
+    "boroughMoodRings": "Borough Mood Rings"
+  },
+  "gear": {
+    "title": "Gear Intelligence",
+    "connected": "Gear Connected",
+    "noGear": "No Gear Detected",
+    "connect": "Connect",
+    "active": "Active",
+    "connectPrompt": "Connect your BIPS Gear to enable intelligence overlays",
+    "activeMode": "Active Mode",
+    "modes": {
+      "commuter": "Commuter",
+      "cyclist": "Cyclist",
+      "safety": "Safety"
+    },
+    "overlays": "Gear Overlays",
+    "recommendations": "Recommendations",
+    "nearbyPoints": "Nearby Gear Points",
+    "recs": {
+      "transitDelay": "Transit delays detected",
+      "transitDelayDesc": "Orange line 5min delay -- adjust departure +10min",
+      "snowRemoval": "Snow removal active",
+      "snowRemovalDesc": "Plateau sector -- alternate routes suggested",
+      "congestion": "Congestion ahead",
+      "congestionDesc": "A-40 slow -- consider Sherbrooke detour",
+      "airQuality": "Air quality advisory",
+      "airQualityDesc": "PM2.5 moderate -- mask recommended in Ville-Marie",
+      "bikePathClear": "Bike path clear",
+      "bikePathClearDesc": "De Maisonneuve corridor fully open",
+      "eBikeCharge": "E-bike charge low",
+      "eBikeChargeDesc": "Charging station 400m ahead at Berri-UQAM",
+      "shelter": "Nearest shelter available",
+      "shelterDesc": "Mission Old Brewery -- 65 beds available",
+      "wifiNearby": "Free Wi-Fi nearby",
+      "wifiNearbyDesc": "Grande Bibliothèque -- 200m east",
+      "warmingCenter": "Warming center open",
+      "warmingCenterDesc": "Ville-Marie center -- 24/7 access"
+    }
+  },
+  "trails": {
+    "title": "City Trails",
+    "subtitle": "Curated walking and cycling routes",
+    "explore": "Explore Trails",
+    "difficulty": "Difficulty",
+    "duration": "Duration",
+    "distance": "Distance",
+    "start": "Start Trail",
+    "easy": "Easy",
+    "moderate": "Moderate",
+    "challenging": "Challenging"
+  },
+  "alerts": {
+    "title": "City Alerts",
+    "subtitle": "Real-time notifications for your city",
+    "types": {
+      "transit": "Transit",
+      "weather": "Weather",
+      "safety": "Safety",
+      "event": "Event",
+      "construction": "Construction",
+      "noise": "Noise"
+    },
+    "severity": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High",
+      "critical": "Critical"
+    },
+    "delivery": {
+      "push": "Push Notification",
+      "email": "Email",
+      "sms": "SMS",
+      "inApp": "In-App"
+    },
+    "settings": "Alert Settings",
+    "noAlerts": "No active alerts"
+  },
+  "stories": {
+    "title": "Civic Stories",
+    "subtitle": "Community narratives from across Montreal",
+    "readMore": "Read More",
+    "byAuthor": "By {{author}}",
+    "categories": {
+      "culture": "Culture",
+      "transit": "Transit",
+      "environment": "Environment",
+      "community": "Community",
+      "safety": "Safety",
+      "history": "History"
+    }
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "translations": "Translations",
+    "translationConsole": "Translation Console",
+    "allKeys": "All Keys",
+    "missingTranslations": "Missing Translations",
+    "searchKeys": "Search translation keys...",
+    "key": "Key",
+    "saveChanges": "Save Changes",
+    "saved": "Saved",
+    "adminMode": "ADMIN MODE -- Changes affect the entire civic platform."
+  },
+  "transit": {
+    "normal": "Normal",
+    "minor_delays": "Minor Delays",
+    "disruptions": "Disruptions"
+  },
+  "shelter": {
+    "available": "Available",
+    "limited": "Limited",
+    "full": "Full"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  }
+}

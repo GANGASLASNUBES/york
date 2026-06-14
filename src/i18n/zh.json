@@ -1,0 +1,270 @@
+{
+  "common": {
+    "back": "返回",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "create": "创建",
+    "close": "关闭",
+    "search": "搜索",
+    "loading": "加载中...",
+    "error": "发生错误",
+    "noData": "暂无数据",
+    "viewAll": "查看全部",
+    "signIn": "登录",
+    "signOut": "退出",
+    "admin": "管理员",
+    "public": "公开",
+    "private": "私密",
+    "submit": "提交",
+    "confirm": "确认",
+    "filter": "筛选",
+    "share": "分享",
+    "invite": "邀请",
+    "settings": "设置",
+    "language": "语言"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "Français",
+    "es": "Español",
+    "zh": "中文"
+  },
+  "home": {
+    "title": "蒙特利尔城市智能",
+    "subtitle": "更智慧城市的实时城市数据",
+    "hero": "通过实时城市数据、社区故事和智能覆盖层探索蒙特利尔。",
+    "featuredOverlays": "精选覆盖层",
+    "communityPins": "社区标注",
+    "recentStories": "最新故事",
+    "citySnapshot": "城市概览",
+    "viewCommandCenter": "指挥中心",
+    "viewNeighborhoods": "探索社区",
+    "viewTrails": "城市步道"
+  },
+  "commandCenter": {
+    "title": "城市指挥中心",
+    "subtitle": "蒙特利尔城市智能平台",
+    "search": "搜索地点、图层、故事...",
+    "layers": "图层",
+    "details": "详情",
+    "mood": "情绪",
+    "gear": "装备",
+    "stories": "故事",
+    "clickMarker": "点击标记查看详情",
+    "longPress": "长按创建标注",
+    "createPin": "创建标注",
+    "pinTitle": "标注名称",
+    "pinDescription": "描述",
+    "pinCategory": "类别",
+    "addPin": "添加标注"
+  },
+  "overlays": {
+    "traffic": "交通",
+    "transit": "公共交通",
+    "bike_paths": "自行车道",
+    "noise": "噪音",
+    "air_quality": "空气质量",
+    "shelters": "庇护所",
+    "public_art": "公共艺术",
+    "events": "活动",
+    "street_closures": "道路封闭",
+    "snow": "除雪",
+    "wifi": "Wi-Fi热点",
+    "parks": "公园",
+    "construction": "施工",
+    "safety": "安全区域"
+  },
+  "neighborhoods": {
+    "title": "社区仪表板",
+    "subtitle": "区级城市智能",
+    "selectBorough": "选择区域",
+    "heatIndex": "热力指数",
+    "transitStatus": "交通状态",
+    "noiseLevel": "噪音",
+    "airQuality": "空气质量",
+    "activeEvents": "活动",
+    "shelterCapacity": "庇护所",
+    "viewInCommandCenter": "在指挥中心查看",
+    "stories": "故事",
+    "noData": "暂无{{borough}}的数据"
+  },
+  "boroughs": {
+    "Le Plateau-Mont-Royal": "皇家山高原",
+    "Rosemont-La Petite-Patrie": "玫瑰山-小祖国",
+    "Ville-Marie": "玛丽城",
+    "Verdun": "凡尔登",
+    "Mercier-Hochelaga-Maisonneuve": "梅西耶-奥什拉加-麦松纳夫",
+    "Le Sud-Ouest": "西南区",
+    "Outremont": "乌特蒙",
+    "Cote-des-Neiges-NDG": "雪山-圣母恩典"
+  },
+  "collabMaps": {
+    "title": "协作地图",
+    "subtitle": "实时共享城市地图",
+    "newMap": "新建地图",
+    "createMap": "创建协作地图",
+    "mapTitle": "标题",
+    "mapDescription": "描述",
+    "noMaps": "暂无协作地图",
+    "createFirst": "创建您的第一张地图",
+    "members": "成员",
+    "overlays": "图层",
+    "pins": "标注",
+    "activity": "动态",
+    "clickToPin": "点击地图添加标注",
+    "noPins": "暂无标注",
+    "noActivity": "暂无最新动态",
+    "roles": {
+      "view": "查看",
+      "pin": "标注",
+      "edit": "编辑",
+      "manage": "管理"
+    },
+    "activityTypes": {
+      "pinAdded": "添加了标注",
+      "pinEdited": "编辑了标注",
+      "trailUpdated": "更新了步道",
+      "memberJoined": "加入了地图",
+      "mapEdited": "编辑了地图"
+    }
+  },
+  "mood": {
+    "title": "区域情绪环",
+    "energized": "活跃",
+    "stable": "稳定",
+    "stressed": "紧张",
+    "overloaded": "超载",
+    "factors": {
+      "noise": "噪音",
+      "traffic": "交通",
+      "airQuality": "空气质量",
+      "events": "活动",
+      "weather": "天气",
+      "transit": "公交"
+    },
+    "cityHeatIndex": "城市热力指数",
+    "boroughMoodRings": "区域情绪环"
+  },
+  "gear": {
+    "title": "装备智能",
+    "connected": "装备已连接",
+    "noGear": "未检测到装备",
+    "connect": "连接",
+    "active": "活跃",
+    "connectPrompt": "连接您的BIPS装备以启用智能覆盖层",
+    "activeMode": "当前模式",
+    "modes": {
+      "commuter": "通勤",
+      "cyclist": "骑行",
+      "safety": "安全"
+    },
+    "overlays": "装备图层",
+    "recommendations": "推荐",
+    "nearbyPoints": "附近设施",
+    "recs": {
+      "transitDelay": "检测到交通延误",
+      "transitDelayDesc": "橙线延误5分钟 -- 建议出发时间+10分钟",
+      "snowRemoval": "除雪作业中",
+      "snowRemovalDesc": "高原区 -- 建议替代路线",
+      "congestion": "前方拥堵",
+      "congestionDesc": "A-40缓慢 -- 建议绕行Sherbrooke",
+      "airQuality": "空气质量警示",
+      "airQualityDesc": "PM2.5中等 -- 建议在玛丽城佩戴口罩",
+      "bikePathClear": "自行车道畅通",
+      "bikePathClearDesc": "De Maisonneuve走廊完全开放",
+      "eBikeCharge": "电动车电量低",
+      "eBikeChargeDesc": "充电站400米处 Berri-UQAM",
+      "shelter": "最近庇护所可用",
+      "shelterDesc": "Old Brewery救助站 -- 65个床位",
+      "wifiNearby": "附近免费Wi-Fi",
+      "wifiNearbyDesc": "大图书馆 -- 东200米",
+      "warmingCenter": "暖气中心开放",
+      "warmingCenterDesc": "玛丽城中心 -- 全天候开放"
+    }
+  },
+  "trails": {
+    "title": "城市步道",
+    "subtitle": "精选步行和骑行路线",
+    "explore": "探索步道",
+    "difficulty": "难度",
+    "duration": "时长",
+    "distance": "距离",
+    "start": "开始步道",
+    "easy": "简单",
+    "moderate": "中等",
+    "challenging": "困难"
+  },
+  "alerts": {
+    "title": "城市警报",
+    "subtitle": "您的城市实时通知",
+    "types": {
+      "transit": "交通",
+      "weather": "天气",
+      "safety": "安全",
+      "event": "活动",
+      "construction": "施工",
+      "noise": "噪音"
+    },
+    "severity": {
+      "low": "低",
+      "medium": "中",
+      "high": "高",
+      "critical": "紧急"
+    },
+    "delivery": {
+      "push": "推送通知",
+      "email": "邮件",
+      "sms": "短信",
+      "inApp": "应用内"
+    },
+    "settings": "警报设置",
+    "noAlerts": "暂无活跃警报"
+  },
+  "stories": {
+    "title": "城市故事",
+    "subtitle": "来自蒙特利尔各地的社区叙事",
+    "readMore": "阅读更多",
+    "byAuthor": "作者：{{author}}",
+    "categories": {
+      "culture": "文化",
+      "transit": "交通",
+      "environment": "环境",
+      "community": "社区",
+      "safety": "安全",
+      "history": "历史"
+    }
+  },
+  "admin": {
+    "title": "管理面板",
+    "translations": "翻译",
+    "translationConsole": "翻译控制台",
+    "allKeys": "所有键",
+    "missingTranslations": "缺失翻译",
+    "searchKeys": "搜索翻译键...",
+    "key": "键",
+    "saveChanges": "保存更改",
+    "saved": "已保存",
+    "adminMode": "管理员模式 -- 更改将影响整个城市平台。"
+  },
+  "transit": {
+    "normal": "正常",
+    "minor_delays": "轻微延误",
+    "disruptions": "中断"
+  },
+  "shelter": {
+    "available": "可用",
+    "limited": "有限",
+    "full": "已满"
+  },
+  "auth": {
+    "signIn": "登录",
+    "signUp": "注册",
+    "email": "邮箱",
+    "password": "密码",
+    "forgotPassword": "忘记密码？",
+    "noAccount": "没有账号？",
+    "hasAccount": "已有账号？"
+  }
+}
